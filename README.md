@@ -9,7 +9,6 @@ Ce projet est une application de liste de tâches réalisée en Python, en utili
 ## Fonctionnalités
 
 - **Ajout de tâches :** Ajoutez de nouvelles tâches à votre liste en spécifiant leur titre et leur description.
-- **Marquage des tâches terminées :** Marquez les tâches comme terminées une fois qu'elles sont accomplies.
 - **Suppression de tâches :** Supprimez les tâches de la liste une fois qu'elles ne sont plus nécessaires.
 - **Interface utilisateur conviviale :** Interface graphique intuitive grâce à Tkinter, offrant une expérience utilisateur agréable.
 
@@ -50,7 +49,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Auteurs
 
-Ce projet a été réalisé par [Votre Nom](https://github.com/votre-utilisateur).
+Ce projet a été réalisé par (https://github.com/votre-utilisateur).
 
 ## Licence
 
