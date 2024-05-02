@@ -58,4 +58,3 @@ Ce projet est sous licence MIT. Pour plus d'informations, veuillez consulter le 
 
 --- 
 
-N'oublie pas de personnaliser les sections avec les détails spécifiques à ton projet, comme le lien vers ton profil GitHub, les instructions d'installation, etc. Et n'hésite pas à ajouter des badges pour le statut du build, la couverture de code, etc., si tu en as besoin !
