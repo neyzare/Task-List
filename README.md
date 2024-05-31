@@ -49,7 +49,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Auteurs
 
-Ce projet a été réalisé par (https://github.com/votre-utilisateur).
+Ce projet a été réalisé par (https://github.com/neyzare).
 
 ## Licence
 
